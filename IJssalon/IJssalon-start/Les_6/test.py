@@ -1,5 +1,7 @@
-mijn_lijst = ["Ma","Di","woe", "Do","Vr","Za","Zo"]
-print (mijn_lijst[5:])
+mijn_lijst = ["Wafels","Schepijs","Pannekoeken"]
+
+for item in mijn_lijst
+print (f"Wij verkopen", item)
 
 
 
