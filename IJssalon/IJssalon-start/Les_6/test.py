@@ -1,7 +1,9 @@
-mijn_lijst = ["banaan","appel","citroenen"]
+mijn_lijst = ["Ma","Di","woe", "Do","Vrij","Za","Zo"]
 
 keuze = mijn_lijst[1]
 print (keuze)
+
+
 
 
 
