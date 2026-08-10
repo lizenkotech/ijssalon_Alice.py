@@ -1,7 +1,7 @@
 mijn_lijst = ["Wafels","Schepijs","Pannekoeken"]
 
-for item in mijn_lijst
-print (f"Wij verkopen", item)
+for item in mijn_lijst:
+    print (f"Wij verkopen", item)
 
 
 
