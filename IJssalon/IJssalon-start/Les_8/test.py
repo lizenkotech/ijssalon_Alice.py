@@ -16,7 +16,7 @@ def tel_op(a,b):
 totaal = tel_op(5,10)
 print (totaal)
 '''
-
+'''
 def info(naam, leeftijd, in_dienst):
     if in_dienst:
         text_1 = "en nog altijd in dienst van onze firma."
@@ -28,3 +28,9 @@ def info(naam, leeftijd, in_dienst):
 
 print(info("Harry", 54, True))
 print(info ("Magda", 73, False))
+'''
+def tel_op (a=1,b=2):
+    return a + b
+totaal = tel_op()
+
+print (totaal)
