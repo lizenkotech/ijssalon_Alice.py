@@ -4,3 +4,9 @@ def print_10():
 
 
 print_10()
+
+
+def ongeveer_pi():
+    return 3.1415
+
+print(ongeveer_pi())
