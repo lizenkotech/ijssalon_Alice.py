@@ -40,3 +40,10 @@ def tel_op (a=1,b=2):
 totaal = tel_op(20)
 
 print (totaal)
+
+totaal = 0
+
+def mijn_functie():
+    a = 2
+    totaal = totaal + 2
+print(totaal)
