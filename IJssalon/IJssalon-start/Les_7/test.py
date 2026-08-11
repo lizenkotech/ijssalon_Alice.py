@@ -1,12 +1,23 @@
 #0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26
 
 '''my_cart = ["appel", "banaan", "citroen"]
-'''
 
 mijn_string = "waterijsje"
 for i in mijn_string:
     print(i)
+'''
+mijn_string = "waterijsje"
+print(mijn_string[4])
 
+str1 = "zon"
+str2 = "licht"
+totaal_str = str1 + str2
+print(totaal_str)
+
+
+
+
+'''
 mijn_string = "2000"
 Mijn_int = int(2000)
 
@@ -50,3 +61,4 @@ def mijn_functie():
     a = 2
     totaal = totaal + a
     print (totaal)
+'''
