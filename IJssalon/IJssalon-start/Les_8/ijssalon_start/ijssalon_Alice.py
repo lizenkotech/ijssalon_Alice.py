@@ -1,5 +1,4 @@
 def print_aanbieding():
-
     prijzen = {
         "aardbei" : 3,
         "vanille" : 4,
