@@ -5,15 +5,17 @@
 mijn_string = "waterijsje"
 for i in mijn_string:
     print(i)
-'''
+
 mijn_string = "waterijsje"
 print(mijn_string[4])
+----------------------------------------------
+
 
 str1 = "zon"
 str2 = "licht"
 totaal_str = str1 + str2
 print(totaal_str)
-
+'''
 
 
 
