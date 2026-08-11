@@ -50,7 +50,7 @@ print()
 for K, V in mijn_dictionary.items():
     print (K, V)
 del mijn_dictionary
-'''
+
 
 mijn_dictionary = {
     "product" : "softijs",
@@ -60,3 +60,27 @@ mijn_dictionary = {
 mijn_dictionary["aantal"] = 150
 mijn_dictionary.update({"aantal":250})
 print(mijn_dictionary["aantal"])
+-----------------------------------------------------------------
+
+print(12 + 4)
+print(12 - 4)
+print(12 * 4)
+print(12 / 4)
+
+b = 12
+c = 4
+print(b + c)
+print(b - c)
+print(b * c)
+print( b / c)
+'''
+
+
+
+b = 12
+c = 4
+i = b **c
+j = b % c
+print("machtsverheffen:", i)
+print("modulus:", j)
+
