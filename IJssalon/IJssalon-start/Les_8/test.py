@@ -49,8 +49,8 @@ def mijn_functie():
 print(totaal)
 
 b=2
-def mijn functie()
-global b
+def mijn_functie():
+    global b
 
 b - b + 10
 print ("binnen: ", b)
