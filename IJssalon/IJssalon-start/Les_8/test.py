@@ -58,3 +58,5 @@ print ("binnen: ", b)
 print ("buiten:", b)
 mijn_functie()
 print("buiten: ", b)
+
+
