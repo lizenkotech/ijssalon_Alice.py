@@ -21,4 +21,5 @@ def print_aanbieding():
         else:
             print(el.lower())
 
+            print_aanbieding()
 
