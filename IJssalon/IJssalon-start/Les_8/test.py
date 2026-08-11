@@ -47,3 +47,14 @@ def mijn_functie():
     a = 2
     totaal = totaal + 2
 print(totaal)
+
+b=2
+def mijn functie()
+global b
+
+b - b + 10
+print ("binnen: ", b)
+
+print ("buiten:", b)
+mijn_functie()
+print("buiten: ", b)
