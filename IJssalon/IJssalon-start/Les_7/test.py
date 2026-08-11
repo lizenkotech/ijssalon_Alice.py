@@ -26,7 +26,8 @@ print (naam)
 -------------------------------------------------------------------------------------
 
 '''
-
+mijn_string = "ham", "eieren", "koffie en thee"
+print (mijn_string)
 
 
 
