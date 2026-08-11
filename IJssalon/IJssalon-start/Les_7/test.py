@@ -29,7 +29,8 @@ print (naam)
 mijn_string = "ham", "eieren", "koffie en thee"
 print (mijn_string)
 
-
+#0 1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26|
+#h a|m|,| |e|i|e|r|e|n | ,|  |k |o |f |f |i |e |  |e | n|  | t| h| e| e|
 
 
 '''
