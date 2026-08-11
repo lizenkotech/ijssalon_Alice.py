@@ -34,3 +34,9 @@ def tel_op (a=1,b=2):
 totaal = tel_op()
 
 print (totaal)
+
+def tel_op (a=1,b=2):
+    return a + b
+totaal = tel_op(20)
+
+print (totaal)
