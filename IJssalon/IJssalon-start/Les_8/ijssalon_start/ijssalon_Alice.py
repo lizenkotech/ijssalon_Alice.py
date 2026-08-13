@@ -23,3 +23,4 @@ def print_aanbieding():
 
             print_aanbieding()
 
+
